@@ -84,11 +84,7 @@ No cloud logins, no locked databases, and no proprietary formats. Drag and drop 
 *   **Commercial & Custom Integration:** Building a bespoke bar unit, coin-operated kiosk, or custom controller enclosure? Developer support is available for specialized mappings and adaptations.
 
 ---
-
-### Developed By
-**“SIGMA-ELEKTRO” d.o.o.**  
-*Professional Software, IT Solutions & Office Equipment*  
-📍 Bosnia and Herzegovina (Europe)  
+ 
 🌐 [sigma-doo.com](https://sigma-doo.com/en.php)
 
 ---
