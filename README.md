@@ -2,7 +2,7 @@
 
 ### *The Ultimate Retro Digital Jukebox for Windows 10 & 11 Touchscreen Devices & DIY Cabinets*
 
-[![Download from Microsoft Store](https://microsoft.com)](https://microsoft.com)
+[![Download from Microsoft Store](https://apps.microsoft.com/detail/9n9drswd1mtp?hl=en-US&gl=US)
 <br>
 🌐 **Official Website:** [Visit SIGMA-ELEKTRO Official Site](https://sigma-doo.com/en.php)
 
