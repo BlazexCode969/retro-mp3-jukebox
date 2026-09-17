@@ -2,18 +2,17 @@
 
 ### *The Ultimate Retro Digital Jukebox for Windows 10 & 11 Touchscreen Devices & DIY Cabinets*
 
-[![Download on Microsoft Store](https://badgen.net)](https://apps.microsoft.com/detail/9N9DRSWD1MTP)
-[![Platform](https://shields.io)](https://apps.microsoft.com/detail/9N9DRSWD1MTP)
-[![Network](https://shields.io)](https://apps.microsoft.com/detail/9N9DRSWD1MTP)
-[![License](https://shields.io)](https://apps.microsoft.com/detail/9N9DRSWD1MTP)
-[![Website](https://shields.io)](https://sigma-doo.com)
+*   **Microsoft Store:** [Get Retro MP3 Jukebox on Microsoft Store](https://microsoft.com)
+*   **Official Website:** [Visit SIGMA-ELEKTRO Official Site](https://sigma-doo.com)
+*   **Platform:** Windows 10 | Windows 11 (64-bit)
+*   **Network:** 100% Offline | Standalone Player
+*   **License:** One-Time Purchase (Perpetual Lifetime)
 
 ---
 
 **Blazex Stereo Jukebox** transforms any Windows PC, All-in-One system, touchscreen kiosk, or DIY arcade cabinet into a luxurious, fully interactive retro jukebox from the golden era of music.
 
 Blending authentic 1970s and 80s aesthetics—natural wood textures, polished brass trim, smoked glass, and audio-reactive neon tubes—with modern, rock-solid digital performance, this application is engineered as the ultimate visual and auditory centerpiece for man-caves, retro bars, home parties, and custom hardware builds.
-<img width="1018" height="682" alt="juke_start" src="https://github.com/user-attachments/assets/c476b749-f37a-4c0d-bdfb-42f951afed8e" />
 
 ---
 
@@ -59,8 +58,6 @@ Framed in vintage brass at the base of the console:
 *   Dynamic, real-time 4-channel reactive Equalizer / VU-meter.
 *   Smooth illuminated Neon Marquee ticker displaying current track and artist.
 *   Digital track countdown timer and animated gold playback status bar.
-  <img width="1919" height="1079" alt="juke_work1" src="https://github.com/user-attachments/assets/15ca5f4c-d980-478e-96c2-cb5ab73b84b1" />
-
 
 ### 6. Zero-Lock Local File Architecture
 No cloud logins, no locked databases, and no proprietary formats. Drag and drop your audio files directly to your drive (C:, D:, USB sticks, or external drives):
@@ -89,7 +86,7 @@ No cloud logins, no locked databases, and no proprietary formats. Drag and drop 
 **“SIGMA-ELEKTRO” d.o.o.**  
 *Professional Software, IT Solutions & Office Equipment*  
 📍 Bosnia and Herzegovina (Europe)  
-🌐 [sigma-doo.com](https://sigma-doo.com/en.php)
+🌐 [sigma-doo.com](https://sigma-doo.com)
 
 ---
 *Bring the authentic magic of the golden-era jukebox to your modern display with Blazex Stereo Jukebox!*
