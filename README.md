@@ -2,8 +2,8 @@
 
 ### *The Ultimate Retro Digital Jukebox for Windows 10 & 11 Touchscreen Devices & DIY Cabinets*
 
-*   **Microsoft Store:** [Get Retro MP3 Jukebox on Microsoft Store](https://microsoft.com)
-*   **Official Website:** [Visit SIGMA-ELEKTRO Official Site](https://sigma-doo.com)
+*   **Microsoft Store:** [Get Retro MP3 Jukebox on Microsoft Store](https://apps.microsoft.com/detail/9n9drswd1mtp?hl=en-US&gl=US)
+*   **Official Website:** [Visit SIGMA-ELEKTRO Official Site](https://sigma-doo.com/en.php)
 *   **Platform:** Windows 10 | Windows 11 (64-bit)
 *   **Network:** 100% Offline | Standalone Player
 *   **License:** One-Time Purchase (Perpetual Lifetime)
@@ -86,7 +86,7 @@ No cloud logins, no locked databases, and no proprietary formats. Drag and drop 
 **“SIGMA-ELEKTRO” d.o.o.**  
 *Professional Software, IT Solutions & Office Equipment*  
 📍 Bosnia and Herzegovina (Europe)  
-🌐 [sigma-doo.com](https://sigma-doo.com)
+🌐 [sigma-doo.com](https://sigma-doo.com/en.php)
 
 ---
 *Bring the authentic magic of the golden-era jukebox to your modern display with Blazex Stereo Jukebox!*
