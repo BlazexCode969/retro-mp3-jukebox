@@ -13,9 +13,9 @@
 **Blazex Stereo Jukebox** transforms any Windows PC, All-in-One system, touchscreen kiosk, or DIY arcade cabinet into a luxurious, fully interactive retro jukebox from the golden era of music.
 
 Blending authentic 1970s and 80s aesthetics—natural wood textures, polished brass trim, smoked glass, and audio-reactive neon tubes—with modern, rock-solid digital performance, this application is engineered as the ultimate visual and auditory centerpiece for man-caves, retro bars, home parties, and custom hardware builds.
-![Uploading juke_start.png…]()
-
 ---
+<img width="1018" height="682" alt="juke_start" src="https://github.com/user-attachments/assets/82a8497e-66fb-4772-adf4-9b3806e19372" />
+
 
 ## 🎵 How It Works: Continuous Party Playback
 
