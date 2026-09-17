@@ -13,6 +13,7 @@
 **Blazex Stereo Jukebox** transforms any Windows PC, All-in-One system, touchscreen kiosk, or DIY arcade cabinet into a luxurious, fully interactive retro jukebox from the golden era of music.
 
 Blending authentic 1970s and 80s aesthetics—natural wood textures, polished brass trim, smoked glass, and audio-reactive neon tubes—with modern, rock-solid digital performance, this application is engineered as the ultimate visual and auditory centerpiece for man-caves, retro bars, home parties, and custom hardware builds.
+![Uploading juke_start.png…]()
 
 ---
 
@@ -58,6 +59,8 @@ Framed in vintage brass at the base of the console:
 *   Dynamic, real-time 4-channel reactive Equalizer / VU-meter.
 *   Smooth illuminated Neon Marquee ticker displaying current track and artist.
 *   Digital track countdown timer and animated gold playback status bar.
+<img width="1919" height="1079" alt="juke_work1" src="https://github.com/user-attachments/assets/a417c52b-c491-44ef-9538-6856f1abcc29" />
+
 
 ### 6. Zero-Lock Local File Architecture
 No cloud logins, no locked databases, and no proprietary formats. Drag and drop your audio files directly to your drive (C:, D:, USB sticks, or external drives):
